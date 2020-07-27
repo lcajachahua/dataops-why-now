@@ -4,7 +4,7 @@ Materiales del Webinar del 10-Jul-2020
 
 Puedes descargar la presentación haciendo clic derecho y eligiendo la opción "Descargar Como.." en este [ENLACE](docs/OpsWhyNow.pdf)
 
-Y desde aquí puedes acceder a la grabación en Facebook:
+Y desde aquí puedes acceder a la [grabación](https://es-la.facebook.com/datamining.pe/videos/vb.101915079868800/732000480913804/) en Facebook:
 
 [![IMAGEN](docs/ops_webinar.png)](https://es-la.facebook.com/datamining.pe/videos/vb.101915079868800/732000480913804/)
 
