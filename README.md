@@ -6,7 +6,7 @@ Puedes descargar la presentación haciendo clic derecho y eligiendo la opción "
 
 Y desde aquí puedes acceder a la grabación en Facebook:
 
-[!docs/ops_webinar.png](https://es-la.facebook.com/datamining.pe/videos/vb.101915079868800/732000480913804/)
+[docs/ops_webinar.png](https://es-la.facebook.com/datamining.pe/videos/vb.101915079868800/732000480913804/)
 
 
 ## Referencias
