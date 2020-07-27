@@ -1,4 +1,4 @@
-# Webinar DMC: DataOps, MLOps, AIOps... Why-now?
+# Webinar DMC: DataOps, MLOps, AIOps... Why now?
 
 Materiales del Webinar del 10-Jul-2020
 
